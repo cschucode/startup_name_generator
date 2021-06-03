@@ -1,12 +1,15 @@
-# startup_name_generator
+# Startup Name Generator
 
-A new Flutter project.
+A new Flutter project that creates an infinite list of startup names using lazy loading on scroll. Features include:
+- lazy-loads startup names on scroll
+- Ability to select favorite startup names
+- Navigate to a list view of favorites
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Resources
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
